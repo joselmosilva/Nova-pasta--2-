@@ -1,4 +1,3 @@
-function cliqueAqui(){
-    document.querySelector(cliqueAqui)
-    console.log (cliqueAqui)
+function falandoAhistoria (){
+    console.log(falandoAhistoria)
 }
